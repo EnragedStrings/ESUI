@@ -1,0 +1,7 @@
+shell.execute("wget https://raw.githubusercontent.com/EnragedStrings/ESUI/main/ESbuttons.lua")
+shell.execute("wget https://raw.githubusercontent.com/EnragedStrings/ESUI/main/EScheckbox.lua")
+shell.execute("wget https://raw.githubusercontent.com/EnragedStrings/ESUI/main/ESdropdowns.lua")
+shell.execute("wget https://raw.githubusercontent.com/EnragedStrings/ESUI/main/ESinput.lua")
+shell.execute("wget https://raw.githubusercontent.com/EnragedStrings/ESUI/main/ESprogress.lua")
+shell.execute("wget https://raw.githubusercontent.com/EnragedStrings/ESUI/main/ESsliders.lua")
+shell.execute("wget https://raw.githubusercontent.com/EnragedStrings/ESUI/main/test.lua")
