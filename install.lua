@@ -1,3 +1,4 @@
+shell = require("shell")
 shell.execute("wget https://raw.githubusercontent.com/EnragedStrings/ESUI/main/ESbuttons.lua")
 shell.execute("wget https://raw.githubusercontent.com/EnragedStrings/ESUI/main/EScheckbox.lua")
 shell.execute("wget https://raw.githubusercontent.com/EnragedStrings/ESUI/main/ESdropdowns.lua")
